@@ -1,4 +1,4 @@
-# cheat
+# Hello
 Okon = "com_github_andygrunwald_go_jira",
         build_file_proto_mode = "enable_global",
         importpath = "github.com/okon.tanyi/go-jira",
